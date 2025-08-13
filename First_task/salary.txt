@@ -1,0 +1,15 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Maria Ivanova,2500
+John Smith,3200
+Anna Kowalska,2800
+Li Wei,3100
+Carlos Alvarez,2700
+Sofia Petrova,2900
+Ahmed Hassan,2600
+Yuki Tanaka,3300
+Elena Popescu,2400
+Daniel Muller,3500
+Priya Sharma,2200
+Oleksandr Kravets,3400
